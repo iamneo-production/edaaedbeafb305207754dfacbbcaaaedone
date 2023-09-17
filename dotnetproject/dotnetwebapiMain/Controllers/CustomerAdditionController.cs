@@ -11,7 +11,7 @@ namespace dotnetwebapiMain.Controllers;
 [Route("[controller]")]
 public class CustomerAdditionController : ControllerBase
 {
-    Uri baseaddress = new Uri("https://localhost:7414/");
+    Uri baseaddress = new Uri("http://0.0.0.0:8081/");
     private readonly HttpClient client;
 
     public CustomerAdditionController()

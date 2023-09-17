@@ -59,3 +59,4 @@
 /home/coder/project/workspace/dotnetproject/dotnetwebapiMain/obj/Debug/net6.0/dotnetwebapiMain.pdb
 /home/coder/project/workspace/dotnetproject/dotnetwebapiMain/obj/Debug/net6.0/dotnetwebapiMain.genruntimeconfig.cache
 /home/coder/project/workspace/dotnetproject/dotnetwebapiMain/obj/Debug/net6.0/ref/dotnetwebapiMain.dll
+/home/coder/project/workspace/dotnetproject/dotnetwebapiMain/bin/Debug/net6.0/Newtonsoft.Json.dll

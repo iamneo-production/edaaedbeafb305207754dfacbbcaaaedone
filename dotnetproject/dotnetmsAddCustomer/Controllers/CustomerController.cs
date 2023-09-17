@@ -1,10 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
 using dotnetmsAddCustomer.Models;
-
+using Microsoft.AspNetCore.Cors;
 namespace dotnetmsAddCustomer.Controllers;
 
 [ApiController]
 [Route("[controller]")]
+[EnableCors("NoCors")] 
 public class CustomerController : ControllerBase
 {
     private readonly CustomerDbContext customerDbContext;
