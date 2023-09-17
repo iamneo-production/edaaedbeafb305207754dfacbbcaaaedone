@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tr2xTAasfDQ2bqzPoNo1qkxS3lbTpPubcskbLiJjbeo=",
+  "Source": "dotnetmsViewCustomer",
+  "BasePath": "_content/dotnetmsViewCustomer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
